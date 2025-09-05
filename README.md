@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -29,8 +28,9 @@
 
 <p align="left">
 I'm Pierre Ramez Samir Francis, a Computer Engineering student (AI focus) from Egypt, graduating in 2027.<br><br>
-- 🔭 Currently part of my university’s AI/ML research team.<br>
-- 📚 Learning advanced machine learning & deep learning, with hands-on work on datasets like Breast Cancer & Titanic.<br>
+- 🔭 Exploring applied machine learning research and projects.<br>
+- 📚 Currently part of the <b>DEPI Generative AI Diploma</b> cohort in Egypt, where I collaborate with peers on building Generative AI projects.<br>
+- 🧪 Working on strengthening my basics to be able to learn about AI/ML more efficiently.<br>
 </p>
 
 ###
@@ -61,10 +61,57 @@ I'm Pierre Ramez Samir Francis, a Computer Engineering student (AI focus) from E
 
 ###
 
+<h3 align="left">📌 Featured Projects</h3>
+
+- [Breast Cancer Classification](https://github.com/pierreramez/breast-cancer-ml) — Logistic Regression on healthcare dataset, focusing on interpretability.  
+- <b>Generative AI Projects (DEPI Diploma)</b> — Ongoing team-based projects in generative models and LLMs.  
+
+###
+
+<h3 align="left">🎯 Roadmap</h3>
+
+- Strengthen foundations in probability, statistics, and deep learning.  
+- Contribute to open-source ML/AI projects.  
+- Publish AI/ML research papers.  
+- Leverage DEPI’s regional network to grow in ML/AI communities.  
+
+###
+
+<h3 align="left">📚 Currently Learning</h3>
+
+- Deep Learning Specialization (Coursera)  
+- Research papers on Explainable AI (XAI)  
+- Advanced linear algebra along with Probability and Statistics for ML  
+- Generative AI tools and frameworks (through DEPI Diploma)  
+
+###
+
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pierreramez&show_icons=true&theme=dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierreramez&layout=compact&theme=dark" height="180" />
+</div>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=pierreramez&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+
+<h3 align="left">🏆 Certifications</h3>
+
+- Huawei HCIA-AI  
+- Machine Learning Specialization (Andrew Ng, Coursera)
+- DEPI Generative AI Diploma (in progress)  
+
+###
+
+<h3 align="left">🤝 Let's Connect</h3>
+
+- 📫 Reach me at: **pierreramez@gmail.com**  
+- 💡 Open to collaborations on AI/ML research & projects
