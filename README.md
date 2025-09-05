@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -27,7 +27,7 @@
 ###
 
 <p align="left">
-I'm Pierre Ramez Samir Francis, a Computer Engineering student (AI focus) from Egypt, graduating in 2027.<br><br>
+I'm Pierre Ramez Francis, a Computer Engineering student (AI focus) from Egypt, graduating in 2027.<br><br>
 - 🔭 Exploring applied machine learning research and projects.<br>
 - 📚 Currently part of the <b>DEPI Generative AI Diploma</b> cohort in Egypt, where I collaborate with peers on building Generative AI projects.<br>
 - 🧪 Working on strengthening my basics to be able to learn about AI/ML more efficiently.<br>
