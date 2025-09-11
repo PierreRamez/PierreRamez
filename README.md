@@ -105,9 +105,11 @@ I'm Pierre Ramez Francis, a Computer Engineering student (AI focus) from Egypt, 
 
 <h3 align="left">🏆 Certifications</h3>
 
-- Huawei HCIA-AI  
+- DEPI Generative AI Diploma (in progress)
+- Deep Learning Specialization (Andrew Ng, Coursera)
+- NVIDIA DLI - Foundations of Deep Learning
 - Machine Learning Specialization (Andrew Ng, Coursera)
-- DEPI Generative AI Diploma (in progress)  
+- Huawei HCIA-AI international exam
 
 ###
 
