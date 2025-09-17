@@ -92,12 +92,10 @@ I'm Pierre Ramez Francis, a Computer Engineering student (AI focus) from Egypt, 
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats-4fn990bid-pierre-ramezs-projects.vercel.app/api?username=pierreramez&show_icons=true&theme=dark&cache_bust=1" height="180" />
-  <img src="https://github-readme-stats-4fn990bid-pierre-ramezs-projects.vercel.app/api/top-langs/?username=pierreramez&layout=compact&theme=dark&cache_bust=1" height="180" />
+  <img src="https://github-readme-stats-4fn990bid-pierre-ramezs-projects.vercel.app/api?username=pierreramez&show_icons=true&theme=dark&cache_bust=20250917T172950" height="180" />
+  <img src="https://github-readme-stats-4fn990bid-pierre-ramezs-projects.vercel.app/api/top-langs?username=pierreramez&layout=compact&theme=dark&cache_bust=20250917T172950" height="180" />
 </div>
 
-
-</div>
 
 ###
 
