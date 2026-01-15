@@ -92,7 +92,7 @@ I’m a Computer Engineering student with an AI/ML focus, graduating in 2027. I 
 <h3 align="left">🤝 Let’s connect</h3>
 
 <ul>
-  <li>📫 <a href="mailto:pierreramez@gmail.com">pierreramez@gmail.com</a></li>
+  <li>📫 <a href="mailto:pierre.ramez10@gmail.com">pierre.ramez10@gmail.com</a></li>
   <li>Open to collaborations on serious AI/ML research and production projects</li>
 </ul>
 
