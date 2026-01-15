@@ -44,7 +44,7 @@ I’m a Computer Engineering student with an AI/ML focus, graduating in 2027. I 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/huggingface/logo/main/huggingface_icon.svg" height="40" alt="huggingface logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
   <img width="12" />
@@ -92,6 +92,7 @@ I’m a Computer Engineering student with an AI/ML focus, graduating in 2027. I 
 <h3 align="left">🤝 Let’s connect</h3>
 
 <ul>
-  <li>📫 pierreramez@gmail.com</li>
+  <li>📫 <a href="mailto:pierreramez@gmail.com">pierreramez@gmail.com</a></li>
   <li>Open to collaborations on serious AI/ML research and production projects</li>
 </ul>
+
