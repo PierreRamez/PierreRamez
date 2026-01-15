@@ -44,7 +44,7 @@ I’m a Computer Engineering student with an AI/ML focus, graduating in 2027. I 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/huggingface/logo/main/huggingface_icon.svg" height="40" alt="huggingface logo" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="40" alt="huggingface logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
   <img width="12" />
