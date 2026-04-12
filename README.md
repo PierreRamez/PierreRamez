@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Pierre%20Ramez%20Francis&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Engineering%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20Edge%20Inference&descAlignY=60&descSize=15&animation=fadeIn"/>
+<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Pierre%20Ramez%20Francis&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Engineering%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20Edge%20Inference&descAlignY=60&descSize=15&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=180&section=header&text=Pierre%20Ramez%20Francis&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Engineering%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20Edge%20Inference&descAlignY=60&descSize=15&animation=fadeIn)"/>
 
 <div align="center">
 
