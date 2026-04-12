@@ -47,8 +47,10 @@ I intern at [ControlPoint](https://control-point.io/about), an OT cybersecurity 
 - **AI for cybersecurity** — vulnerability analysis, automated threat intelligence, OT/ICS security
 
 ---
-
+<div align="center">
+  
 ### Current Work
+</div>
 
 | &nbsp; | Role | Where | Focus |
 |--------|------|--------|-------|
