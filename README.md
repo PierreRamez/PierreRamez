@@ -28,12 +28,16 @@ I intern at [ControlPoint](https://control-point.io/about), an OT cybersecurity 
 
 ---
 
-<center>### Research Interests</center>
+<div align="center">
 
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI%20Systems-70e33b?style=flat-square&logoColor=white)
-![LLM Fine-Tuning](https://img.shields.io/badge/LLM%20Fine--Tuning%20%26%20PEFT-5bbd2d?style=flat-square&logoColor=white)
-![Edge Inference](https://img.shields.io/badge/Edge%20Inference-4a9e23?style=flat-square&logoColor=white)
-![AI for Cybersecurity](https://img.shields.io/badge/AI%20for%20Cybersecurity-377d16?style=flat-square&logoColor=white)
+### Research Interests
+
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI%20Systems-70E33B?style=flat-square&logoColor=white)
+![LLM Fine-Tuning](https://img.shields.io/badge/LLM%20Fine--Tuning%20%26%20PEFT-63D335?style=flat-square&logoColor=white)
+![Edge Inference](https://img.shields.io/badge/Edge%20Inference-56C430?style=flat-square&logoColor=white)
+![AI for Cybersecurity](https://img.shields.io/badge/AI%20for%20Cybersecurity-49B42A?style=flat-square&logoColor=white)
+
+</div>
 
 - **Agentic AI systems** — architecture, reliability, and formal evaluation of autonomous LLM-based pipelines
 - **LLM fine-tuning under constraints** — PEFT methods (LoRA, QLoRA), closed-loop HITL learning, in-production weight adaptation
