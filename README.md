@@ -2,8 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Agentic+AI+Systems;LLM+Fine-Tuning+%26+Efficient+Inference;AI+for+Cybersecurity+%26+OT%2FICS;Closed-Loop+Active+Learning)](https://github.com/PierreRamez)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Local+AI;Agentic+AI+Systems;LLM+Fine-Tuning+%26+Efficient+Inference;AI+for+Cybersecurity+%26+OT%2FICS;Closed-Loop+Active+Learning)](https://github.com/PierreRamez)
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pierreramez)
