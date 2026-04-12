@@ -171,4 +171,6 @@ Open to research collaborations in agentic AI, LLM systems, and software enginee
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFDF7,35:FDF6E3,70:F5EBCD,100:EED9B7&height=190&section=header&text=Pierre%20Ramez%20Francis&fontSize=44&fontColor=111111&fontAlignY=36&desc=Computer%20Engineering%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20Edge%20Inference&descAlignY=60&descSize=16&descColor=222222&animation=fadeIn"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFDF7,35:FDF6E3,70:F5EBCD,100:EED9B7&height=120&section=footer"/>
