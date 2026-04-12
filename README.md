@@ -63,6 +63,7 @@ I intern at [ControlPoint](https://control-point.io/about), an OT cybersecurity 
   
 ### Projects
 </div>
+
 <details open>
 <summary><b>🔒 Automated OT/ICS Threat Intelligence Pipeline</b></summary>
 
@@ -152,8 +153,10 @@ Open-source tool for migrating playlists from Anghami to Spotify. Built because 
 
 ---
 <div align="center">
+  
 ### Writing
 </div>
+
 **[Key to Understanding Gradient Descent: Algorithm and How It Works](https://www.linkedin.com/posts/cse-innovation-hub-msa_gradient-descent-algorithm-activity-7290795656426749952-l3WJ)**
 &nbsp;·&nbsp; *CSE Innovation Hub, MSA University · Feb 2025*
 
@@ -168,6 +171,7 @@ Open to research collaborations in agentic AI, LLM systems, and software enginee
 
 📧 [pierre.ramez10@gmail.com](mailto:pierre.ramez10@gmail.com) &nbsp;·&nbsp; 💼 [linkedin.com/in/pierreramez](https://linkedin.com/in/pierreramez)
 </div>
+
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer"/>
