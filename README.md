@@ -33,9 +33,9 @@ I intern at [ControlPoint](https://control-point.io/about), an OT cybersecurity 
 
 ### Research Interests
 
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI%20Systems-70E33B?style=flat-square&logoColor=black)
-![LLM Fine-Tuning](https://img.shields.io/badge/LLM%20Fine--Tuning%20%26%20PEFT-63D335?style=flat-square&logoColor=black)
-![Edge Inference](https://img.shields.io/badge/Edge%20Inference-56C430?style=flat-square&logoColor=black)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI%20Systems-49B42A?style=flat-square&logoColor=black)
+![LLM Fine-Tuning](https://img.shields.io/badge/LLM%20Fine--Tuning%20%26%20PEFT-49B42A?style=flat-square&logoColor=black)
+![Edge Inference](https://img.shields.io/badge/Edge%20Inference-49B42A?style=flat-square&logoColor=black)
 ![AI for Cybersecurity](https://img.shields.io/badge/AI%20for%20Cybersecurity-49B42A?style=flat-square&logoColor=black)
 
 </div>
