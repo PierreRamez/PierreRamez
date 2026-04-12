@@ -20,6 +20,7 @@
 
 ---
 <div align="center">
+  
 ### About
 </div>
 
@@ -57,6 +58,7 @@ I intern at [ControlPoint](https://control-point.io/about), an OT cybersecurity 
 
 ---
 <div align="center">
+  
 ### Projects
 </div>
 <details open>
@@ -111,8 +113,9 @@ Open-source tool for migrating playlists from Anghami to Spotify. Built because 
 
 ---
 <div align="center">
+  
 ### Technical Stack
-</div>
+
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -143,6 +146,8 @@ Open-source tool for migrating playlists from Anghami to Spotify. Built because 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
+</div>
+
 ---
 <div align="center">
 ### Writing
@@ -154,6 +159,7 @@ Mathematical derivation of gradient descent through intuitive analogies and step
 
 ---
 <div align="center">
+  
 ### Connect
 
 Open to research collaborations in agentic AI, LLM systems, and software engineering for AI.
