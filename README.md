@@ -19,8 +19,9 @@
 <br>
 
 ---
-
+<div align="center">
 ### About
+</div>
 
 I'm a Computer Engineering student building AI systems that operate under real constraints — constrained hardware, safety-critical environments, and the gap between benchmark performance and production behavior. My current focus is agentic AI: how autonomous LLM-based pipelines are designed, evaluated, and made reliable when the stakes are higher than a demo.
 
@@ -55,9 +56,9 @@ I intern at [ControlPoint](https://control-point.io/about), an OT cybersecurity 
 | 🖥️ | **Programming Instructor** | 6th of October, Egypt/Remote *(Oct 2025 – present)* | C++ fundamentals, secondary school level |
 
 ---
-
+<div align="center">
 ### Projects
-
+</div>
 <details open>
 <summary><b>🔒 Automated OT/ICS Threat Intelligence Pipeline</b></summary>
 
@@ -109,9 +110,9 @@ Open-source tool for migrating playlists from Anghami to Spotify. Built because 
 </details>
 
 ---
-
+<div align="center">
 ### Technical Stack
-
+</div>
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -143,22 +144,22 @@ Open-source tool for migrating playlists from Anghami to Spotify. Built because 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
-
+<div align="center">
 ### Writing
-
+</div>
 **[Key to Understanding Gradient Descent: Algorithm and How It Works](https://www.linkedin.com/posts/cse-innovation-hub-msa_gradient-descent-algorithm-activity-7290795656426749952-l3WJ)**
 &nbsp;·&nbsp; *CSE Innovation Hub, MSA University · Feb 2025*
 
 Mathematical derivation of gradient descent through intuitive analogies and step-by-step implementation — partial derivatives of the loss function, learning rate effects on convergence geometry, and Batch/Stochastic/Mini-Batch variants.
 
 ---
-
+<div align="center">
 ### Connect
 
 Open to research collaborations in agentic AI, LLM systems, and software engineering for AI.
 
 📧 [pierre.ramez10@gmail.com](mailto:pierre.ramez10@gmail.com) &nbsp;·&nbsp; 💼 [linkedin.com/in/pierreramez](https://linkedin.com/in/pierreramez)
-
+</div>
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer"/>
