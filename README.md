@@ -8,9 +8,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pierreramez)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-pierre.ramez10%40gmail.com-1a1a2e?style=flat-square&logo=gmail&logoColor=white)](mailto:pierre.ramez10@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-PierreRamez-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PierreRamez)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your_email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/PierreRamez)
 
 <sub>MSA University × University of Greenwich &nbsp;·&nbsp; 6th of October, Egypt &nbsp;·&nbsp; Graduating June 2027</sub>
 
