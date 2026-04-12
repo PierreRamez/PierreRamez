@@ -1,6 +1,7 @@
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFDF7,35:FDF6E3,70:F5EBCD,100:EED9B7&height=190&section=header&text=Pierre%20Ramez%20Francis&fontSize=44&fontColor=111111&fontAlign=50&fontAlignY=36&desc=Computer%20Engineering%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20Edge%20Inference&descAlign=50&descAlignY=60&descSize=16&descColor=222222&animation=fadeIn"/>
+<div align="center">
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFDF7,35:FDF6E3,70:F5EBCD,100:EED9B7&height=190&section=header&text=Pierre%20Ramez%20Francis&fontSize=44&fontColor=111111&fontAlign=50&fontAlignY=36&desc=Computer%20Engineering%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20Edge%20Inference&descAlign=50&descAlignY=60&descSize=16&descColor=222222&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=900&color=111111&center=true&vCenter=true&width=900&lines=Local+AI;LLM4Code;Agentic+AI+Systems;LLM+Fine-Tuning+%26+Efficient+Inference;AI+for+Cybersecurity+%26+OT%2FICS)](https://github.com/PierreRamez)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=900&color=f5ebce&center=true&vCenter=true&width=900&lines=Local+AI;LLM4Code;Agentic+AI+Systems;LLM+Fine-Tuning+%26+Efficient+Inference;AI+for+Cybersecurity+%26+OT%2FICS)](https://github.com/PierreRamez)
 
 <br>
 
