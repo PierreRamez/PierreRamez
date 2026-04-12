@@ -48,7 +48,7 @@ I intern at [ControlPoint](https://control-point.io/about), an OT cybersecurity 
 |--------|------|--------|-------|
 | 🔒 | **AI Intern** | [ControlPoint](https://control-point.io/about) *(Feb 2026 – present)* | Agentic architectures for OT/ICS security MVP — task decomposition, tool-use pipelines, competitive platform analysis |
 | 🔬 | **Head of Research** | Outstanding Hub, CSE Dept., MSA University *(Nov 2025 – present)* | Research group on automation in AI/ML systems; survey paper in progress |
-| 🖥️ | **Programming Instructor** | 6th of October, Egypt *(Oct 2025 – present)* | C++ fundamentals, secondary school level |
+| 🖥️ | **Programming Instructor** | 6th of October, Egypt/Remote *(Oct 2025 – present)* | C++ fundamentals, secondary school level |
 
 ---
 
