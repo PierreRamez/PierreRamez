@@ -96,22 +96,6 @@ A production-grade active learning system built on Llama 3.2 3B. A HITL pipeline
 
 </details>
 
-<br>
-
-<details open>
-<summary><b>🎵 A2S-Migrator</b></summary>
-
-<br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify_API-1DB954?style=flat-square&logo=spotify&logoColor=white)
-![MIT](https://img.shields.io/badge/Open_Source-MIT-3fb950?style=flat-square)
-[![Repo](https://img.shields.io/badge/→%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PierreRamez/A2S-Migrator)
-
-Open-source tool for migrating playlists from Anghami to Spotify. Built because no clean public solution existed. Implements full OAuth 2.0 authentication flow, interactive CLI, and proper virtual environment packaging, solving a real problem for a regional audience underserved by the Spotify ecosystem.
-
-</details>
-
 ---
 <div align="center">
   
