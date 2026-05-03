@@ -158,7 +158,7 @@ Open-source tool for migrating playlists from Anghami to Spotify. Built because 
 **[A Mathematical Breakdown of Gradient Descent](https://www.linkedin.com/posts/cse-innovation-hub-msa_gradient-descent-algorithm-activity-7290795656426749952-l3WJ)**
 &nbsp;·&nbsp; *CSE Innovation Hub, MSA University · Feb 2025*
 
-Mathematical derivation of gradient descent through intuitive analogies and step-by-step implementation — partial derivatives of the loss function, learning rate effects on convergence geometry, and Batch/Stochastic/Mini-Batch variants.
+Mathematical derivation of gradient descent through intuitive analogies and step-by-step implementation, partial derivatives of the loss function, learning rate effects on convergence geometry, and Batch/Stochastic/Mini-Batch variants.
 
 ---
 <div align="center">
