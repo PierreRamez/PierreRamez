@@ -73,7 +73,7 @@ I intern at [ControlPoint](https://control-point.io/about), an OT cybersecurity 
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 [![Repo](https://img.shields.io/badge/→%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PierreRamez/Automated-Threat-Intelligence-Pipeline)
 
-An end-to-end agentic pipeline for industrial cybersecurity. Polls the National Vulnerability Database for live CVE feeds, applies a two-stage classification architecture (domain-specific keyword prefilter → single-pass LLM inference with strict JSON output contracts), and delivers findings through a real-time analyst-facing Streamlit dashboard. Deployed via GitHub Actions CI/CD. Includes documented tradeoff analysis and known system limitations — the project that preceded my current internship at ControlPoint.
+An end-to-end agentic pipeline for industrial cybersecurity. Polls the National Vulnerability Database for live CVE feeds, applies a two-stage classification architecture (domain-specific keyword prefilter → single-pass LLM inference with strict JSON output contracts), and delivers findings through a real-time analyst-facing Streamlit dashboard. Deployed via GitHub Actions CI/CD. This project preceded my current internship at ControlPoint.
 
 </details>
 
@@ -92,7 +92,7 @@ An end-to-end agentic pipeline for industrial cybersecurity. Polls the National 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 [![Repo](https://img.shields.io/badge/→%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PierreRamez/PersonalChatbot)
 
-A production-grade active learning system built on Llama 3.2 3B. A HITL pipeline captures user correction signals at inference time, triggers LoRA adapter retraining, and hot-swaps weights with zero service interruption — continuous in-production improvement without redeployment. Trained on a 13k-row curated dataset (DailyDialogue + Mental Health corpus), achieving **4.08 perplexity** and **0.88 BERTScore F1** on a held-out evaluation set. Model selection — 3B over 8B — was driven by a formal comparative study: identical evaluation protocol across both variants, with the decision justified through a documented efficiency–quality tradeoff analysis under **4-bit quantization** targeting edge deployment constraints. MLflow experiment tracking and GitHub Actions CI/CD throughout.
+A production-grade active learning system built on Llama 3.2 3B. A HITL pipeline captures user correction signals at inference time, triggers LoRA adapter retraining, and hot-swaps weights with zero service interruption — continuous in-production improvement without redeployment. Trained on a 13k-row curated dataset (DailyDialogue + Mental Health corpus), achieving **4.08 perplexity** and **0.88 BERTScore F1** on a held-out evaluation set. Model selection, 3B over 8B, was driven by a formal comparative study: identical evaluation protocol across both variants, with the decision justified through a documented efficiency–quality tradeoff analysis under **4-bit quantization** targeting edge deployment constraints. MLflow experiment tracking and GitHub Actions CI/CD throughout.
 
 </details>
 
@@ -108,7 +108,7 @@ A production-grade active learning system built on Llama 3.2 3B. A HITL pipeline
 ![MIT](https://img.shields.io/badge/Open_Source-MIT-3fb950?style=flat-square)
 [![Repo](https://img.shields.io/badge/→%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PierreRamez/A2S-Migrator)
 
-Open-source tool for migrating playlists from Anghami to Spotify. Built because no clean public solution existed. Implements full OAuth 2.0 authentication flow, interactive CLI, and proper virtual environment packaging — solving a real problem for a regional audience underserved by the Spotify ecosystem.
+Open-source tool for migrating playlists from Anghami to Spotify. Built because no clean public solution existed. Implements full OAuth 2.0 authentication flow, interactive CLI, and proper virtual environment packaging, solving a real problem for a regional audience underserved by the Spotify ecosystem.
 
 </details>
 
